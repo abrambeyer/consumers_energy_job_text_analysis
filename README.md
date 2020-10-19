@@ -29,18 +29,18 @@
 
 ### Word Counts and Dispersion Plot
 
-*Most Common Words in the Vocabulatry*
- <img src="https://github.com/abrambeyer/consumers_energy_job_text_analysis/blob/main/top_50_analytics_job_words.png" width="500">  
- <img src="https://github.com/abrambeyer/consumers_energy_job_text_analysis/blob/main/top_50_analytics_job_verbs.png" width="500">  
- <img src="https://github.com/abrambeyer/consumers_energy_job_text_analysis/blob/main/top_50_analytics_job_adj.png" width="500">  
+*Most Common Words in the Vocabulatry*  
+<img src="https://github.com/abrambeyer/consumers_energy_job_text_analysis/blob/main/top_50_analytics_job_words.png" width="500">  
+<img src="https://github.com/abrambeyer/consumers_energy_job_text_analysis/blob/main/top_50_analytics_job_verbs.png" width="500">  
+<img src="https://github.com/abrambeyer/consumers_energy_job_text_analysis/blob/main/top_50_analytics_job_adj.png" width="500">  
  
- *Word Cloud* 
- ##### Most common words appearing in Consumers Energy job listings for analytics-related jobs as of 10/18/2020.
- <img src="https://github.com/abrambeyer/consumers_energy_job_text_analysis/blob/main/cms_job_description_word_cloud.png" width="500">  
+*Word Cloud* 
+##### Most common words appearing in Consumers Energy job listings for analytics-related jobs as of 10/18/2020.
+<img src="https://github.com/abrambeyer/consumers_energy_job_text_analysis/blob/main/cms_job_description_word_cloud.png" width="500">  
  
- *Lexical Dispersion Plot*
- ##### I was interested in which common data analytics technologies appear in the aggregate job listing text.  The technologies
- ##### in the below plot are simply the ones I thought of in the moment or was most interested in seeing.
- <img src="https://github.com/abrambeyer/consumers_energy_job_text_analysis/blob/main/cms_jobs_lexical_dispersion.png" width="500">  
+*Lexical Dispersion Plot*
+##### I was interested in which common data analytics technologies appear in the aggregate job listing text.  The technologies
+##### in the below plot are simply the ones I thought of in the moment or was most interested in seeing.
+<img src="https://github.com/abrambeyer/consumers_energy_job_text_analysis/blob/main/cms_jobs_lexical_dispersion.png" width="500">  
  
  
